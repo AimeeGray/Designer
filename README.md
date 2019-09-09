@@ -70,9 +70,7 @@
         margin:30px auto;
       }
 
-      div{ border:solid;
-        color:white;
-      }
+  
       
       a { font-family:"Avantgarde", TeX Gyre Adventor, URW Gothic L, sans-serif;
         font-size:10px;
