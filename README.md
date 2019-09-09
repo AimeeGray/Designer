@@ -70,7 +70,9 @@
         margin:30px auto;
       }
 
-  
+      div{ border:solid;
+        color:white;
+      }
       
       a { font-family:"Avantgarde", TeX Gyre Adventor, URW Gothic L, sans-serif;
         font-size:10px;
@@ -114,17 +116,20 @@
       <h2>- designer -</h2>
       <h1>Gray</h1>
       
-      <center> <img src="https://imagizer.imageshack.com/img923/9364/CYEXQw.jpg" class="portrait"  alt="Portrait Aimée Vermeren" ></center>
+      <center><img src="https://imagizer.imageshack.com/img923/9364/CYEXQw.jpg" class="portrait"  alt="Portrait Aimée Vermeren" ></center>
       
       <h3> impétueuse <span class="pink"> & </span> créative
       </h3>
-  
+      
       
       <a href="#cv"> CURRICULUM VITAE</a> <br>
       <a href="#projet"> PROJETS</a>
-
+      
+      <h5></h5>
       
       <h6 id="cv" >- Curriculum vitae -</h6>
+      
+      <h5></h5>
       
       <h4> DIPLÔMES</h4>
       
@@ -140,16 +145,17 @@
         <li>Stage à l'atelier D'éco solidaire</li>
         <li>Stage à Korbinian Aigner Gymnasium avec T. Shimada et M.  Hohenberger (école de Design à Munich.)</li>
       </ul>
- 
+      
+      <h5></h5>
 
       <h6 id="projet">- Projets -</h6>
       
- 
+      <h5></h5>
       
       <a href="#artdéco"> ART DECO - BORDEAUX CASABLANCA</a> <br>
       <a href="#morue"> FÊTE DE LA MORUE</a><br>
       
-   
+     
       
       <h4 id="artdéco">VIVRE L'ART DECO BORDEAUX-CASABLANCA</h4>
       
@@ -160,7 +166,7 @@
       
       <center><img  src="https://imagizer.imageshack.com/v2/767x798q90/r/923/T04nTk.png" class="projetun" alt="AFFICHE ART DECO AIMEE V"></center>
       
-      <h5></h5>
+    
       
       <h4 id="morue">CREATION D'UNE AFFICHE POUR LA FÊTE DE LA MORUE</h4>
       
@@ -171,3 +177,4 @@
 
   </body>
 </html>
+
