@@ -117,16 +117,15 @@
       <h2>- designer -</h2>
       <h1>Gray</h1>
       
-      <img src="https://imagizer.imageshack.com/img923/9364/CYEXQw.jpg" class="portrait"  alt="Portrait Aimée Vermeren" ></center>
+      <center> <img src="https://imagizer.imageshack.com/img923/9364/CYEXQw.jpg" class="portrait"  alt="Portrait Aimée Vermeren" ></center>
       
       <h3> impétueuse <span class="pink"> & </span> créative
       </h3>
-      <h5></h5>
+  
       
       <a href="#cv"> CURRICULUM VITAE</a> <br>
       <a href="#projet"> PROJETS</a>
-      
-      <h5></h5>
+
       
       <h6 id="cv" >- Curriculum vitae -</h6>
       
@@ -144,17 +143,16 @@
         <li>Stage à l'atelier D'éco solidaire</li>
         <li>Stage à Korbinian Aigner Gymnasium avec T. Shimada et M.  Hohenberger (école de Design à Munich.)</li>
       </ul>
-      
-      <h5></h5>
+ 
 
       <h6 id="projet">- Projets -</h6>
       
-      <h5></h5>
+ 
       
       <a href="#artdéco"> ART DECO - BORDEAUX CASABLANCA</a> <br>
       <a href="#morue"> FÊTE DE LA MORUE</a><br>
       
-      <h5></h5>
+   
       
       <h4 id="artdéco">VIVRE L'ART DECO BORDEAUX-CASABLANCA</h4>
       
